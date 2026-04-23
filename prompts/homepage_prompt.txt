@@ -1,0 +1,13 @@
+Act as a professional website copywriter.
+
+Create a high-converting homepage for a gym located in Visakhapatnam.
+
+Include:
+- Headline
+- Subheadline
+- About section
+- Services overview
+- Why choose us
+- CTA
+
+Tone: Simple and persuasive
