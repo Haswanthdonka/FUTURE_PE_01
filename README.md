@@ -16,4 +16,7 @@ This project demonstrates how AI can generate website content for local business
 Gym in Visakhapatnam
 
 ## Author
-Haswanth Donoka
+Haswanth Donka
+
+#live website
+https://httpsbestfitnessgym.lovable.app
